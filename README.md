@@ -1,5 +1,5 @@
-# Mario-Kart-Database
-Mario Kart Relational Database in SQL Project
+# Smash-Bros-Database
+Smash Bros Relational Database in SQL Project
 
 Topic: For our group project, we wanted to design a database for the Super Smash
 Bros characters.
