@@ -1,7 +1,7 @@
 # Smash-Bros-Database
 Smash Bros Relational Database in SQL Project
 
-Topic: For our group project, we wanted to design a database for the Super Smash
+Topic: For this group project, the goal was to design a database for Super Smash
 Bros characters.
 
 Details: Super Smash Bros has a variety of different characters and many different
